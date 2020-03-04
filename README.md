@@ -1,3 +1,3 @@
 # lab1
  html-web-design
- ![Lab_No - Gif ](outputs/capture.gif)
+ ![Lab_1 - Gif ](outputs/screen-capture.gif)
